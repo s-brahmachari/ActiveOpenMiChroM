@@ -1,5 +1,5 @@
 ============
-OpenMiChroM
+ActiveOpenMiChroM
 ============
 
 |Citing OpenMiChroM|
